@@ -1,6 +1,6 @@
 # Project React Counter
 
-This is my Project React
+This is my Project React Counter
 
 ## Objectives
 
